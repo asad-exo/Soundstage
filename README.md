@@ -364,7 +364,7 @@ soundstage/
 
 | | |
 | --- | --- |
-| **Students** | Shams Ghani · Asad Shahab · Syed Nazim Shah · Maida Shafaq |
+| **Students** | Asad Shahab · Shams Ghani · Syed Nazim Shah · Maida Shafaq |
 | **Advisor** | Dr. Zahid Halim |
 | **Co-advisor** | Engr. Ahsan Shah |
 | **Institution** | Faculty of Computer Science & Engineering, Ghulam Ishaq Khan Institute of Engineering Sciences & Technology |
