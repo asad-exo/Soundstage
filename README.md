@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Audio synthesis with context-aware voice inflections &amp; environmental sounds</b><br>
-  Final Year Project, BS Computer Science · GIK Institute of Engineering Sciences &amp; Technology · 2022–2023
+  Final Year Project, BS Computer Science · GIK Institute of Engineering Sciences &amp; Technology · 2023
 </p>
 
 <p align="center">
