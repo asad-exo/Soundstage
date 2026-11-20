@@ -26,6 +26,8 @@
 
 > [!NOTE]
 > This repository documents the **design, architecture and research** behind Soundstage. The source code is not included: the prototype was a work in progress when the project ended.
+>
+> The app is no longer functional because its servers have been shut down.
 
 ## Contents
 
