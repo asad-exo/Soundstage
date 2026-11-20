@@ -50,7 +50,7 @@
 
 Soundstage is a web application that turns a piece of natural text, such as an extract from a novel, into an audio scene. It finds the dialogue in the text, works out who is speaking and what mood the scene is in, and synthesizes each line in a voice that fits the character. In its extended scope it also figures out where the scene is set and generates matching environmental sound (rain, rustling leaves, a flowing river).
 
-Existing text-to-speech tools at the time (Sonantic, Murf.AI, Play.ht) produced high-quality voices but needed a person to enter each line, choose a voice and set the emotion by hand. Soundstage's aim was to derive all of that from the text itself.
+Existing text-to-speech tools at the time (Sonantic, Murf.AI, Play.ht) produced high-quality voices but required a person to enter each line, choose a voice and set the emotion by hand. Soundstage's aim was to derive all of that from the text itself.
 
 **Who it was for:** teachers in under-resourced schools who want audiobooks for their classes, visually impaired listeners, independent filmmakers and game developers who can't afford voice actors or a foley artist, and audio platforms producing audiobooks at scale.
 
