@@ -264,7 +264,7 @@ flowchart LR
 | Data | Audiobooks |
 | Clip size | 2²¹ samples (~44 s at 48 kHz) |
 
-**Result.** Text conditioning worked well: generated audio matched its description. Used directly as a text-to-speech model, however, the output was **mostly unintelligible**. Foley was in the extended scope, so this component was not taken further.
+**Result.** Text conditioning worked well: generated audio matched its description. Used directly as a text-to-speech model, however, the output was **mostly unintelligible**. Foley was in the extended scope, so this component was not taken any further.
 
 ### Diffusion vocoder
 
