@@ -347,21 +347,6 @@ The base scope (text processing, 1–2 voice models, automatic synthesis, integr
 5. **Timeline editor.** Trim and arrange generated clips in the app.
 6. **Scalability.** Move beyond redundant whole-server deployments.
 
-## Repository layout
-
-```
-soundstage/
-├── README.md
-├── assets/
-│   ├── logo.png
-│   ├── poster.jpg           project poster (downscaled)
-│   ├── diagrams/            UML diagrams from the report
-│   └── screenshots/         web app screens
-└── docs/
-    ├── Soundstage-Final-Report.pdf            final report, 51 pages
-    └── Soundstage-Product-Requirements.pdf    requirements document, Dec 2022
-```
-
 ## Team
 
 | | |
